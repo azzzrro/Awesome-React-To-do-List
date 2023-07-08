@@ -12,7 +12,11 @@ You may also see any lint errors in the console.
 
 ## Screenshots
 
+![App Screenshot](https://res.cloudinary.com/dmbpxal0o/image/upload/v1688795552/git/todo%20app/Screenshot_2023-07-08_111606_npna02.jpg)
+
 ![App Screenshot](https://res.cloudinary.com/dmbpxal0o/image/upload/v1688795553/git/todo%20app/Screenshot_2023-07-08_111701_sqlr1q.jpg)
+
+![App Screenshot](https://res.cloudinary.com/dmbpxal0o/image/upload/v1688795552/git/todo%20app/Screenshot_2023-07-08_111734_nfoyrv.jpg)
 
 ![App Screenshot](https://res.cloudinary.com/dmbpxal0o/image/upload/v1688795552/git/todo%20app/Screenshot_2023-07-08_111758_zgilno.jpg)
 

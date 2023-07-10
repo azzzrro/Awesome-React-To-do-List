@@ -128,6 +128,8 @@
     border-radius: 20px;
     padding: 5px;
     box-shadow: 5px 6px 10px rgba(0, 0, 0, 0.3);
+    transition: 0.2s ease-in-out;
+    cursor: pointer;
 
   }
   .app .todos .todo .left {
@@ -165,7 +167,16 @@
     color: white;
     display: flex;
     box-shadow: 5px 6px 10px rgba(0, 0, 0, 0.3);
+    transition: 0.2s ease-in-out;
+    cursor: pointer;
+  }
 
+  .app .completed .completed-lists:hover{
+    transform: scale(1.02);
+  }
+
+  .todos .todo:hover{
+    transform: scale(1.02);
   }
   
   

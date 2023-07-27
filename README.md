@@ -1,5 +1,13 @@
 # Getting Started with React To-Do App
 
+First Locate the project directory, and run the command:
+
+### `npm install`
+
+This will install the necessary dependencies for the app.\
+Once the installation is complete, you can proceed to run the app.
+
+
 In the project directory, you can run:
 
 ### `npm start`
